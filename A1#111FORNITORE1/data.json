@@ -1,0 +1,14 @@
+{
+  "claim_1": "C1",
+  "claim_2": "C2",
+  "claim_3": "C3",
+  "email": "a@b.c",
+  "RESULT" : [{
+	"id": 1,
+	"trace-id": "b5e75a93-e517-480b-9eaa-6cb8b81d03d8",
+	"workflow-instance-id": "2.16.840.1.113883.2.9.2.120.4.4.97bb3fc5bee3032679f4f07419e04af6375baafa17024527a98ede920c6812ed.7ea73d015c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+	"files": {
+		"validation_file" : "T1_VALIDATION.PDF"
+	}
+  }]
+}
