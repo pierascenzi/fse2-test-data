@@ -1,7 +1,7 @@
 {
-	"claim1": "c1",
-	"claim2": "c2",
-	"claim3": "c3",
+	"appID": "c1",
+	"appVendor": "c2",
+	"appVersion": "c3",
 	"email": "a@b.c",
 	"result": [
 		{
